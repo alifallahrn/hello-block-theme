@@ -1,7 +1,23 @@
 {
     "$schema": "https://schemas.wp.org/trunk/theme.json",
     "version": 2,
-    "settings": {},
+    "settings": {
+        "color":{
+            "defaultPalette": false,
+            "palette": [
+                {
+                    "slug": "black",
+                    "color": "#000000",
+                    "name": "Black"
+                },
+                {
+                    "slug": "white",
+                    "color": "#ffffff",
+                    "name": "White"
+                }
+            ]
+        }
+    },
     "customTemplates": [
         {
             "name": "blank",
