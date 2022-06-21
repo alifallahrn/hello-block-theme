@@ -1,5 +1,15 @@
 {
     "$schema": "https://schemas.wp.org/trunk/theme.json",
     "version": 2,
-    "settings": {}
+    "settings": {},
+    "customTemplates": [
+        {
+            "name": "blank",
+            "title": "Blank Template",
+            "postTypes": [
+                "page",
+                "post"
+            ]
+        }
+    ]
 }
