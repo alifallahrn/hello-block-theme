@@ -44,6 +44,28 @@
         "color": {
             "background": "var(--wp--preset--color--light-silver)",
             "text": "var(--wp--preset--color--black)"
+        },
+        "elements": {
+            "h2": {
+                "color": {
+                    "text": "var(--wp--preset--color--white)",
+                    "background": "var(--wp--preset--color--black)"
+                },
+                "border": {
+                    "radius": "5px"
+                },
+                "spacing": {
+                    "padding": "10px"
+                }
+            },
+            "link": {
+                "color": {
+                    "text": "inherit"
+                },
+                "typography": {
+                    "textDecoration": "none"
+                }
+            }
         }
     },
     "customTemplates": [
