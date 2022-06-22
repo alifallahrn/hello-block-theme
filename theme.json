@@ -32,6 +32,11 @@
             ]
         }
     },
+    "styles": {
+        "typography": {
+            "fontFamily": "var(--wp--preset--font-family--tahoma)"
+        }
+    },
     "customTemplates": [
         {
             "name": "blank",
