@@ -16,6 +16,20 @@
                     "name": "White"
                 }
             ]
+        },
+        "typography": {
+            "fontFamilies": [
+                {
+                    "fontFamily": "tahoma",
+                    "name": "Tahoma",
+                    "slug": "tahoma"
+                },
+                {
+                    "fontFamily": "arial",
+                    "name": "Arial",
+                    "slug": "arial"
+                }
+            ]
         }
     },
     "customTemplates": [
