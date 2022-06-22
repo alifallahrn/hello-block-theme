@@ -42,7 +42,8 @@
             "fontFamily": "var(--wp--preset--font-family--tahoma)"
         },
         "color": {
-            "background": "var(--wp--preset--color--light-silver)"
+            "background": "var(--wp--preset--color--light-silver)",
+            "text": "var(--wp--preset--color--black)"
         }
     },
     "customTemplates": [
